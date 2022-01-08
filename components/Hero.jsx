@@ -13,7 +13,7 @@ function Hero() {
                     <div>
                         <h1 className="text-3xl text-[#f5f6fa] font-bold">Im Cephas Chapa.</h1>
                         <h1 className="text-3xl text-[#f5f6fa] font-bold">A <span className="text-blue-500 font-bold">borderless</span> fullstack software developer.</h1>
-    
+     
                         <div className="p-1 w-24 bg-white my-3 rounded-full"></div>
                         <p className="text-white">
                             I enjoy working on challenging projects. I draw my work  ethics from Elon Musk, Albert Einstien, Nickola Tesla and my Parents. Im extremely passionate and enjoy working with others.
