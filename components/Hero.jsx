@@ -11,7 +11,7 @@ function Hero() {
                 </div>
                 <div className="flex bg-[#353b48] py-10 px-5">
                     <div>
-                        <h1 className="text-3xl text-[#f5f6fa] font-bold">I'm Cephas Chapa.</h1>
+                        <h1 className="text-3xl text-[#f5f6fa] font-bold">Im Cephas Chapa.</h1>
                         <h1 className="text-3xl text-[#f5f6fa] font-bold">A <span className="text-blue-500 font-bold">borderless</span> fullstack software developer.</h1>
     
                         <div className="p-1 w-24 bg-white my-3 rounded-full"></div>
