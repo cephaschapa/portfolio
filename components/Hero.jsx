@@ -16,7 +16,7 @@ function Hero() {
     
                         <div className="p-1 w-24 bg-white my-3 rounded-full"></div>
                         <p className="text-white">
-                            I enjoy working on challenging projects. I draw my work ethics from Elon Musk, Albert Einstien, Nickola Tesla and my Parents. Im extremely passionate and enjoy working with others.
+                            I enjoy working on challenging projects. I draw my work  ethics from Elon Musk, Albert Einstien, Nickola Tesla and my Parents. Im extremely passionate and enjoy working with others.
                         </p>
                     </div>
                 </div>
